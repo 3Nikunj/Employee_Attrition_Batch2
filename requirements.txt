@@ -7,3 +7,4 @@ seaborn
 joblib==1.1.0
 streamlit
 altair==4.0
+distutils
