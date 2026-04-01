@@ -1,4 +1,5 @@
-﻿numpy
+setuptools
+numpy
 pandas
 scikit-learn==1.0.2
 matplotlib
@@ -6,4 +7,3 @@ seaborn
 joblib==1.1.0
 streamlit
 altair==4.0
-standard-imghdr
